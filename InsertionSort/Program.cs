@@ -1,6 +1,7 @@
 ﻿using System;
-//Выполнить сортировку выбором целочисленного массива.
-//
+/// <summary>
+/// Выполнить сортировку вставками целочисленного массива.
+/// </summary>
 namespace InsertionSort
 {
     class Program
